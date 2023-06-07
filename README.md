@@ -11,10 +11,10 @@ We strongly recommend developers to use Android Studio to develop.The demo for A
 i just make simple scan and print for help bcz at first time i need grind for scratch bcz i dont realy undersrtand java at begining and this my first time project.
 so i hope this help u guys
 
-==============
-# Sunmi p2
+==========
 
-============
+SUNMIP2
+==========
 ## fitur
 -scan 
 -print
